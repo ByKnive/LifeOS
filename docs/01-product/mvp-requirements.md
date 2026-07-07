@@ -265,8 +265,124 @@ Initial insights:
 * XP trends over time
 
 ---
+# 7. User Experience Principles
 
-# 7. Non-Requirements
+LifeOS should feel like a companion for growth, not an obligation.
+
+The MVP must follow these principles:
+
+---
+
+## 7.1 Low Friction
+
+The system should require minimal effort to maintain.
+
+Rules:
+
+* Logging progress should take less than 30 seconds.
+* Creating a new quest should take less than one minute.
+* The user should never spend more time managing LifeOS than improving their life.
+
+---
+
+## 7.2 Action Before Administration
+
+LifeOS exists to encourage real-world action.
+
+The system should prioritize:
+
+```
+Do the activity
+
+↓
+
+Capture the progress
+
+↓
+
+Learn from the data
+```
+
+Not:
+
+```
+Plan endlessly
+
+↓
+
+Organize endlessly
+
+↓
+
+Avoid action
+```
+
+---
+
+## 7.3 Positive Reinforcement
+
+The system should celebrate progress rather than highlight failure.
+
+Examples:
+
+Good:
+
+> "You gained 250 XP this week. Your strongest area was Career."
+
+Avoid:
+
+> "You failed to complete your Character goals."
+
+Missing progress is information, not failure.
+
+---
+
+## 7.4 Visible Progress
+
+Progress should always be easy to understand.
+
+The user should quickly see:
+
+* What has improved.
+* What is currently active.
+* What milestones are approaching.
+* What areas may need attention.
+
+---
+
+## 7.5 Reality First
+
+Gamification exists to support real life, not replace it.
+
+XP, achievements, and rewards are tools to create awareness and motivation.
+
+The ultimate measurement is improvement outside the system.
+
+Examples:
+
+* Better skills
+* Better decisions
+* Better experiences
+* Better relationships
+* Better self-awareness
+
+---
+
+## 7.6 Avoid Complexity Creep
+
+New features should only be added if they improve:
+
+* Engagement
+* Insight generation
+* Ease of use
+
+Features that only add complexity should be avoided.
+
+The system should remain simple enough that future versions can evolve without becoming overwhelming.
+
+---
+
+# 8. Non-Requirements
 
 The MVP will intentionally exclude:
 
@@ -284,7 +400,7 @@ These may be considered after validating the foundation.
 
 ---
 
-# 8. MVP Success Criteria
+# 9. MVP Success Criteria
 
 The MVP is successful if:
 
@@ -296,7 +412,7 @@ The MVP is successful if:
 
 ---
 
-# 9. Future Evolution
+# 10. Future Evolution
 
 After MVP validation:
 
