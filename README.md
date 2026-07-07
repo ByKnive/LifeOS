@@ -32,6 +32,12 @@ LifeOS treats personal development like a long-term game:
 
 ---
 
+# Reality First Principle
+
+LifeOS exists to enhance real-world progress, not replace it. Gamification is used to increase motivation and awareness, but the ultimate measurement is improvement outside the system.
+
+---
+
 # Core Concept
 
 The LifeOS progression loop:
