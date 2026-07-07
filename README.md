@@ -86,7 +86,7 @@ Examples:
 * Hosting experiences
 * Creative hobbies
 
-## Mind
+## Character
 
 Examples:
 
